@@ -1,0 +1,130 @@
+{
+  "firma": "FLOREANA Hydrokultur",
+  "stelle": "Facharbeiter Grünpflege (m/w/d)",
+  "ort": "Hamburg",
+  "plz": "21033",
+  "branche": "galabau",
+  "farbe_primary": "#55AB26",
+  "farbe_secondary": "#3D5A1E",
+  "region_badge": "Hamburg & Umgebung",
+  "benefit_top": "Firmenwagen – auch privat",
+  "benefits": [
+    "Voll ausgestatteter Firmenwagen – Privatnutzung nach Absprache (1 % Versteuerung)",
+    "Deine Arbeit beginnt und endet zu Hause",
+    "Weihnachtsgeld",
+    "Unbefristeter Arbeitsvertrag in Vollzeit",
+    "Flexible Arbeitszeiten & strukturierte Abläufe",
+    "Mitarbeiter-Events, flache Hierarchien & freundliches Arbeitsklima",
+    "Ermäßigte Preise für Pflanzen und Gartenprodukte"
+  ],
+  "aufgaben": [
+    "Du pflegst Hydrokulturen und betreust Innenraumbegrünungen direkt bei unseren Kunden",
+    "Du pflegst grüne Wände und hältst sie instand",
+    "Du stellst Pflanzen auf und tauschst sie aus",
+    "Du fährst mit dem Firmenfahrzeug zu den Kunden und betreust sie vor Ort – im Team"
+  ],
+  "anforderung": "Ausbildung als Gärtner/in, Freude an Pflanzen und Führerschein Klasse B – Erfahrung mit Hydrokultur und Innenraumbegrünung ist ein Plus.",
+  "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+  "fachrichtungen": [
+    {
+      "label": "Gärtnerei / Zierpflanzen",
+      "icon": "🌱",
+      "qualifikationen": [
+        {
+          "label": "Ausgebildeter Gärtner",
+          "icon": "🎓"
+        },
+        {
+          "label": "Gärtnermeister / Techniker",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "label": "Innenraumbegrünung / Hydrokultur",
+      "icon": "🪴",
+      "qualifikationen": [
+        {
+          "label": "Ausgebildeter Gärtner",
+          "icon": "🎓"
+        },
+        {
+          "label": "Gärtnermeister / Techniker",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "label": "Garten- & Landschaftsbau",
+      "icon": "🌿",
+      "qualifikationen": [
+        {
+          "label": "Ausgebildeter Landschaftsgärtner",
+          "icon": "🎓"
+        },
+        {
+          "label": "Meister / Techniker",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "label": "Anderer Bereich",
+      "icon": "🛠️",
+      "qualifikationen": [
+        {
+          "label": "Ausbildung in einem anderen Beruf",
+          "icon": "🎓"
+        },
+        {
+          "label": "Meister / Techniker",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        }
+      ]
+    }
+  ],
+  "ueber": {
+    "fakten": [
+      {
+        "zahl": "15",
+        "label": "Mitarbeitende"
+      },
+      {
+        "zahl": "1996",
+        "label": "gegründet"
+      }
+    ],
+    "text": "FLOREANA ist ein inhabergeführtes Hamburger Unternehmen für professionelle Pflanzenpflege, kreative Raumbegrünung und hochwertige Begrünungskonzepte – von Innenraumbegrünung und Hydrokultur über Pflanzenmiete und vertikale Begrünung bis zur Pflege von Außenanlagen. Gemeinsam sorgt das Team dafür, dass Hamburg und Umgebung jeden Tag ein Stück grüner wird."
+  },
+  "kunde_tab": "16 FLOREANA Hydrokultur",
+  "quelle": "https://floreana-hydrokultur.green-careers.de",
+  "logo": "logo.png",
+  "karte": {
+    "bild": "img/karte.jpg",
+    "label": "Hamburg"
+  },
+  "hero_bild": "img/hero.jpg",
+  "bilder": [
+    "img/f1-mooswand.jpg",
+    "img/f2-hydrokultur.jpg",
+    "img/f3-lounge.jpg",
+    "img/f4-buero.jpg",
+    "img/f5-transporter.jpg"
+  ]
+}
