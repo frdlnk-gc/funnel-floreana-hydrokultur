@@ -1,0 +1,45 @@
+[
+ {
+  "name": "creative-3-wir-suchen",
+  "logo": "logo-hd.png",
+  "foto": "img/foto-hd-pflege.jpg",
+  "primary": "#55AB26",
+  "panel": "top",
+  "panel_hoehe": 0.54,
+  "panel_bg": "#3D5A1E",
+  "kicker": "WIR SUCHEN IN HAMBURG & UMGEBUNG",
+  "headline": [
+   "Facharbeiter",
+   "Grünpflege (m/w/d)"
+  ],
+  "subline": "Innenraumbegrünung & Hydrokultur – mit Firmenwagen, auch privat.",
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.45,
+   0.35
+  ]
+ },
+ {
+  "name": "creative-4-checkliste",
+  "logo": "logo-hd.png",
+  "foto": "img/foto-hd-hydrokultur.jpg",
+  "primary": "#55AB26",
+  "panel": "bottom",
+  "panel_hoehe": 0.58,
+  "panel_bg": "#FFFFFF",
+  "kicker": "WIR SUCHEN IN HAMBURG & UMGEBUNG",
+  "headline": [
+   "Facharbeiter Grünpflege (m/w/d)"
+  ],
+  "checkliste": [
+   "Firmenwagen – auch privat",
+   "Arbeit beginnt und endet zu Hause",
+   "Weihnachtsgeld"
+  ],
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.45
+  ]
+ }
+]

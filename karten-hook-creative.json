@@ -1,0 +1,21 @@
+{
+ "name": "creative-1-karten-hook",
+ "logo": "logo-hd.png",
+ "foto": "img/foto-hd-transporter.jpg",
+ "fokus": [
+  0.6,
+  0.55
+ ],
+ "karte": "img/karte.jpg",
+ "primary": "#55AB26",
+ "headline": [
+  "FACHARBEITER",
+  "GRÜNPFLEGE"
+ ],
+ "headline_zusatz": "(m/w/d)",
+ "pill": [
+  "Ohne Lebenslauf &",
+  "Anschreiben!"
+ ],
+ "ort": "Hamburg · Reinbek · Geesthacht & Umgebung"
+}

@@ -1,0 +1,36 @@
+{
+ "name": "creative-2-collage",
+ "logo": "logo-hd.png",
+ "fotos": [
+  "img/foto-hd-pflege.jpg",
+  "img/foto-hd-mooswand.jpg",
+  "img/foto-hd-hydrokultur.jpg"
+ ],
+ "fokus": [
+  [
+   0.45,
+   0.4
+  ],
+  [
+   0.5,
+   0.4
+  ],
+  [
+   0.5,
+   0.5
+  ]
+ ],
+ "primary": "#55AB26",
+ "ink": "#1B1B1B",
+ "headline": [
+  "Facharbeiter",
+  "Grünpflege"
+ ],
+ "headline_zusatz": "(m/w/d)",
+ "ort": "Hamburg · Reinbek · Geesthacht",
+ "cta": [
+  "Jetzt unverbindliches",
+  "Job-Angebot erhalten –",
+  "mit 1 Klick!"
+ ]
+}
